@@ -4,103 +4,120 @@
             "Naam": "Jude Bellingham",
             "Team": "Real Madrid",
             "Positie": "Middenvelder",
-            "Leeftijd": "21"
+            "Leeftijd": "21",
+            "Rugnummer": "5"
         },
         {
-            "id": "Lamine Yamal",
+            "Naam": "Lamine Yamal",
             "Team": "Barcelona",
             "Positie": "Aanvaller",
-            "Leeftijd": "17"
+            "Leeftijd": "17",
+            "Rugnummer": "27"
         },
         {
             "Naam": "Lionel Messi",
             "Team": "Inter Miami",
             "Positie": "Aanvaller",
-            "Leeftijd": 37
+            "Leeftijd": "37",
+            "Rugnummer": "10"
         },
         {
             "Naam": "Cristiano Ronaldo",
             "Team": "Al-Nassr",
             "Positie": "Aanvaller",
-            "Leeftijd": 40
+            "Leeftijd": "40",
+            "Rugnummer": "7"
         },
         {
             "Naam": "Kylian Mbappé",
             "Team": "Real Madrid",
             "Positie": "Aanvaller",
-            "Leeftijd": 26
+            "Leeftijd": "26",
+            "Rugnummer": "9"
         },
         {
             "Naam": "Erling Haaland",
             "Team": "Manchester City",
             "Positie": "Aanvaller",
-            "Leeftijd": 24
+            "Leeftijd": "24",
+            "Rugnummer": "14"
         },
         {
             "Naam": "Kevin De Bruyne",
             "Team": "Manchester City",
             "Positie": "Middenvelder",
-            "Leeftijd": 33
+            "Leeftijd": "33",
+            "Rugnummer": "17"
         },
         {
             "Naam": "Virgil van Dijk",
             "Team": "Liverpool",
             "Positie": "Verdediger",
-            "Leeftijd": 33
+            "Leeftijd": "33",
+            "Rugnummer": "4"
         },
         {
             "Naam": "Robert Lewandowski",
             "Team": "Barcelona",
             "Positie": "Aanvaller",
-            "Leeftijd": 36
+            "Leeftijd": "36",
+            "Rugnummer": "9"
         },
         {
             "Naam": "Vinícius Júnior",
             "Team": "Real Madrid",
             "Positie": "Aanvaller",
-            "Leeftijd": 24
+            "Leeftijd": "24",
+            "Rugnummer": "7"
         },
         {
             "Naam": "Harry Kane",
             "Team": "Bayern München",
             "Positie": "Aanvaller",
-            "Leeftijd": 31
+            "Leeftijd": "31",
+            "Rugnummer": "10"
         },
         {
             "Naam": "Bukayo Saka",
             "Team": "Arsenal",
             "Positie": "Middenvelder",
-            "Leeftijd": 23
+            "Leeftijd": "23",
+            "Rugnummer": "7"
         },
         {
             "Naam": "Jamal Musiala",
             "Team": "Bayern München",
             "Positie": "Middenvelder",
-            "Leeftijd": 22
+            "Leeftijd": "22",
+            "Rugnummer": "42"
         },
         {
             "Naam": "Rodri",
             "Team": "Manchester City",
             "Positie": "Middenvelder",
-            "Leeftijd": 28
+            "Leeftijd": "28",
+            "Rugnummer": "16"
         },
         {
             "Naam": "Antoine Griezmann",
             "Team": "Atlético Madrid",
             "Positie": "Aanvaller",
-            "Leeftijd": 34
+            "Leeftijd": "34",
+            "Rugnummer": "8"
         },
         {
             "Naam": "Declan Rice",
             "Team": "Arsenal",
             "Positie": "Middenvelder",
-            "Leeftijd": 26
+            "Leeftijd": "26",
+            "Rugnummer": "41"
         },
         {
             "Naam": "Alisson Becker",
             "Team": "Liverpool",
             "Positie": "Doelman",
-            "Leeftijd": 32
+            "Leeftijd": "32",
+            "Rugnummer": "1"
         }
     ]
 }
