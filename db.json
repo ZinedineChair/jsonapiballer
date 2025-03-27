@@ -1,0 +1,106 @@
+{
+    "voetbal spelers": [
+        {
+            "Naam": "Jude Bellingham",
+            "Team": "Real Madrid",
+            "Positie": "Middenvelder",
+            "Leeftijd": "21"
+        },
+        {
+            "id": "Lamine Yamal",
+            "Team": "Barcelona",
+            "Positie": "Aanvaller",
+            "Leeftijd": "17"
+        },
+        {
+            "Naam": "Lionel Messi",
+            "Team": "Inter Miami",
+            "Positie": "Aanvaller",
+            "Leeftijd": 37
+        },
+        {
+            "Naam": "Cristiano Ronaldo",
+            "Team": "Al-Nassr",
+            "Positie": "Aanvaller",
+            "Leeftijd": 40
+        },
+        {
+            "Naam": "Kylian Mbappé",
+            "Team": "Real Madrid",
+            "Positie": "Aanvaller",
+            "Leeftijd": 26
+        },
+        {
+            "Naam": "Erling Haaland",
+            "Team": "Manchester City",
+            "Positie": "Aanvaller",
+            "Leeftijd": 24
+        },
+        {
+            "Naam": "Kevin De Bruyne",
+            "Team": "Manchester City",
+            "Positie": "Middenvelder",
+            "Leeftijd": 33
+        },
+        {
+            "Naam": "Virgil van Dijk",
+            "Team": "Liverpool",
+            "Positie": "Verdediger",
+            "Leeftijd": 33
+        },
+        {
+            "Naam": "Robert Lewandowski",
+            "Team": "Barcelona",
+            "Positie": "Aanvaller",
+            "Leeftijd": 36
+        },
+        {
+            "Naam": "Vinícius Júnior",
+            "Team": "Real Madrid",
+            "Positie": "Aanvaller",
+            "Leeftijd": 24
+        },
+        {
+            "Naam": "Harry Kane",
+            "Team": "Bayern München",
+            "Positie": "Aanvaller",
+            "Leeftijd": 31
+        },
+        {
+            "Naam": "Bukayo Saka",
+            "Team": "Arsenal",
+            "Positie": "Middenvelder",
+            "Leeftijd": 23
+        },
+        {
+            "Naam": "Jamal Musiala",
+            "Team": "Bayern München",
+            "Positie": "Middenvelder",
+            "Leeftijd": 22
+        },
+        {
+            "Naam": "Rodri",
+            "Team": "Manchester City",
+            "Positie": "Middenvelder",
+            "Leeftijd": 28
+        },
+        {
+            "Naam": "Antoine Griezmann",
+            "Team": "Atlético Madrid",
+            "Positie": "Aanvaller",
+            "Leeftijd": 34
+        },
+        {
+            "Naam": "Declan Rice",
+            "Team": "Arsenal",
+            "Positie": "Middenvelder",
+            "Leeftijd": 26
+        },
+        {
+            "Naam": "Alisson Becker",
+            "Team": "Liverpool",
+            "Positie": "Doelman",
+            "Leeftijd": 32
+        }
+    ]
+}
