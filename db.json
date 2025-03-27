@@ -1,6 +1,13 @@
 {
     "voetbal spelers": [
         {
+            "Naam": "Ilias Chair",
+            "Team": "QPR",
+            "Positie": "Middenvelder",
+            "Leeftijd": "27",
+            "Rugnummer": "10"
+        },
+        {
             "Naam": "Jude Bellingham",
             "Team": "Real Madrid",
             "Positie": "Middenvelder",
