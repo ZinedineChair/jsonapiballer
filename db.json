@@ -125,50 +125,48 @@
             "Positie": "Doelman",
             "Leeftijd": "32",
             "Rugnummer": "1"
+        }
+    ],
+    "teams": [
+        {
+            "Team": "QPR",
+            "Competitie": "Championship"
         },
         {
-            "teams": [
-                {
-                    "Team": "QPR",
-                    "Competitie": "Championship"
-                },
-                {
-                    "Team": "Real Madrid",
-                    "Competitie": "La Liga"
-                },
-                {
-                    "Team": "Barcelona",
-                    "Competitie": "La Liga"
-                },
-                {
-                    "Team": "Inter Miami",
-                    "Competitie": "MLS"
-                },
-                {
-                    "Team": "Al-Nassr",
-                    "Competitie": "Saudi Pro League"
-                },
-                {
-                    "Team": "Manchester City",
-                    "Competitie": "Premier League"
-                },
-                {
-                    "Team": "Liverpool",
-                    "Competitie": "Premier League"
-                },
-                {
-                    "Team": "Bayern München",
-                    "Competitie": "Bundesliga"
-                },
-                {
-                    "Team": "Arsenal",
-                    "Competitie": "Premier League"
-                },
-                {
-                    "Team": "Atlético Madrid",
-                    "Competitie": "La Liga"
-                }
-            ]
+            "Team": "Real Madrid",
+            "Competitie": "La Liga"
+        },
+        {
+            "Team": "Barcelona",
+            "Competitie": "La Liga"
+        },
+        {
+            "Team": "Inter Miami",
+            "Competitie": "MLS"
+        },
+        {
+            "Team": "Al-Nassr",
+            "Competitie": "Saudi Pro League"
+        },
+        {
+            "Team": "Manchester City",
+            "Competitie": "Premier League"
+        },
+        {
+            "Team": "Liverpool",
+            "Competitie": "Premier League"
+        },
+        {
+            "Team": "Bayern München",
+            "Competitie": "Bundesliga"
+        },
+        {
+            "Team": "Arsenal",
+            "Competitie": "Premier League"
+        },
+        {
+            "Team": "Atlético Madrid",
+            "Competitie": "La Liga"
         }
     ]
 }
