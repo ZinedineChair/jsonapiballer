@@ -3,7 +3,7 @@ import json
 
 app = Flask(__name__)
 
-# Data laden uit JSON-bestand
+
 with open('db.json', encoding='utf-8') as f:
     data = json.load(f)
 
